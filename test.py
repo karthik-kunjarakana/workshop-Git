@@ -1,1 +1,1 @@
-print("test")
+print(" always be happy")
