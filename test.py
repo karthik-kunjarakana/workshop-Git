@@ -1,1 +1,1 @@
-print("naruto uzumaki")
+print("Bankai shatatsu karagara sigaraminu shuji")
