@@ -1,1 +1,1 @@
-print("naruto uzumaki")
+print("student")
